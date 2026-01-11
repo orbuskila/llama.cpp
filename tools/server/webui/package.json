@@ -88,7 +88,7 @@
 		"remark-gfm": "^4.0.1",
 		"remark-html": "^16.0.1",
 		"remark-rehype": "^11.1.2",
-		"svelte-sonner": "^1.0.5",
+		"svelte-sonner": "^1.0.7",
 		"unist-util-visit": "^5.0.0"
 	}
 }
