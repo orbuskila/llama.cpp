@@ -1,5 +1,5 @@
 numpy~=1.26.4
-sentencepiece~=0.2.0
+sentencepiece~=0.2.1
 
 # Embedding Gemma is currently a preview release:
 # https://github.com/huggingface/transformers/releases/tag/v4.56.0-Embedding-Gemma-preview
